@@ -2,7 +2,7 @@
 <H3>REGISTER NO: 212223230169</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
-<H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
+<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
 <h3>Algorithm:</h3>
@@ -57,14 +57,11 @@ for word in words:
 # Display synonyms and antonyms
 print("\nSynonyms :", set(synonyms))
 print("  Antonyms :", set(antonyms))
-
+```
 
 <H3>Output</H3>
 
-<img width="469" height="61" alt="image" src="https://github.com/user-attachments/assets/b7e97375-1f03-4948-8ab9-1c5ef024a224" />
-<img width="319" height="254" alt="image" src="https://github.com/user-attachments/assets/516e1e13-33c0-4b92-9d4a-c63dbfbafa51" />
-<img width="1622" height="29" alt="image" src="https://github.com/user-attachments/assets/7606395f-4728-46a7-b37b-886dd4c7687c" />
-<img width="640" height="30" alt="image" src="https://github.com/user-attachments/assets/8c50af1f-7a1a-4c9b-9bf6-63958e4cfa0b" />
+<img width="1777" height="619" alt="image" src="https://github.com/user-attachments/assets/28177148-5320-4788-8998-9ffb26c46a26" />
 
 
 <H3>Result:</H3>
